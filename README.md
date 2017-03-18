@@ -1,4 +1,9 @@
 # MacOS-prank-app-BETA-1-
+
+———————————————————————————————————————————————————————
+
+Recommendation: Change the title and picture of the application to make it look more convincing, maybe find a nice wallpaper and make that the icon/picture and name it something relevant. e.g - a photo of an Audi R8 as the photo and the title to be audi-r8-hd-wallpaper_1 .
+
 ———————————————————————————————————————————————————————
 
 There is an extremely low chance that you will have any side-effects left on your Mac when opening this on your or anyone else’s computer. This is really as stable as it gets. If you fuck up your/someone else’s computer; I take no responsibility. But realistically, nothing serious is going to happen.
